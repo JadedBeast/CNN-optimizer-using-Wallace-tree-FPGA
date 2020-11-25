@@ -1,4 +1,5 @@
 #16 bit Wallace tree multiplier in VHDL
+
 This contains the Wallace tree 8 bit and 16 bit multiplier.  
 I used four of 8 bit multiplier to make a 16 bit multiplier using the algortihm in the image below.  
 ![](images/algorithm.png)  
